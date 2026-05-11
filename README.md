@@ -2,9 +2,9 @@
 
 # Hi, I'm Damin Xia
 
-### AI @ LinkedIn · ex-TikTok · LLMs · Recsys · PhD
+### Software Engineer · PhD · Scientific Computing + AI Builder
 
-I like solving problems without a clear answer, especially where machine learning, recommendation systems, AI agents, and computational science meet.
+I like solving problems without a clear answer, especially where software, machine learning, and computational science meet.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damin%20Xia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damin-xia/)
 [![GitHub](https://img.shields.io/badge/GitHub-damin225-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/damin225)
@@ -15,14 +15,13 @@ I like solving problems without a clear answer, especially where machine learnin
 
 ## About Me
 
-I'm a Machine Learning Engineer at LinkedIn based in Mountain View, California. My current work focuses on **LLMs for recommendation systems**, including post-training, prompt optimization, and multi-task learning.
+I'm a PhD-trained engineer based in Mountain View, California, with a background in computational mechanics, reduced-order modeling, crystal plasticity, finite element simulation, and machine learning.
 
-Before LinkedIn, I worked on TikTok e-commerce feed recommendation and built transformer-based models for orthodontic treatment prediction at Align Technology. My research background is in computational mechanics, reduced-order modeling, crystal plasticity, finite element simulation, and multiscale materials modeling.
+My work often sits in the space between research and production: turning mathematical models, numerical methods, and AI ideas into software that people can actually use, test, and extend.
 
 ```text
-Current focus  LLMs for recsys, post-training, prompt optimization, multi-task learning
-Industry path  LinkedIn AI, TikTok recommendations, Align Technology R&D
-Research roots  Computational mechanics, multiscale modeling, CPFE, FEM, ROM
+Current focus  AI agents, applied machine learning, and useful developer tools
+Research roots  Computational mechanics, multiscale modeling, CPFE, FEM
 I enjoy         Ambiguous problems, clean systems, fast prototypes, clear writing
 ```
 
@@ -30,19 +29,10 @@ I enjoy         Ambiguous problems, clean systems, fast prototypes, clear writin
 
 | Area | What it means in practice |
 | --- | --- |
-| **LLMs + Recsys** | Post-training, prompt optimization, multi-task learning, and ranking/recommendation workflows. |
-| **AI Agents** | Building workflows that use LLMs to research, summarize, generate, and automate. |
+| **AI + Agents** | Building workflows that use LLMs to research, summarize, generate, and automate. |
 | **Scientific Computing** | Numerical modeling, finite elements, crystal plasticity, and reduced-order simulation. |
-| **Research Translation** | Making complex technical work easier to understand, reproduce, and ship. |
-
-## Experience
-
-| Role | Focus |
-| --- | --- |
-| **Machine Learning Engineer, LinkedIn** | LLMs for recommendation systems, post-training, prompt optimization, and multi-task learning. |
-| **Machine Learning Engineer II, TikTok** | E-commerce feed recommendation. |
-| **R&D Engineer, Align Technology** | Transformer-based models for orthodontic treatment prediction. |
-| **Research Assistant, Vanderbilt University** | Multiscale modeling, reduced-order modeling, large-deformation formulation, and crack modeling. |
+| **Software Engineering** | Turning rough ideas into reliable tools, scripts, dashboards, and services. |
+| **Research Translation** | Making complex technical work easier to understand, reproduce, and share. |
 
 ## Featured Work
 
@@ -63,19 +53,10 @@ I enjoy         Ambiguous problems, clean systems, fast prototypes, clear writin
 
 ## Research Background
 
-- PhD in Computational Mechanics, Vanderbilt University
-- MS in Computer Science, Georgia Institute of Technology
-- BE, Harbin Institute of Technology
-- Published first-author work in computational mechanics, including CMAME and IJNME
-- Research on multiscale models, reduced-order models, large-deformation formulation, and short crack modeling
-
-## Selected Publications
-
-- **Amplifying Your Social Media Presence:** Personalized Influential Content Generation with LLMs
-- **Out-of-plane constraint for 2D representative volume element model of dual phase steels under uniaxial tension**
-- **Proper orthogonal decomposition assisted eigendeformation-based mathematical homogenization method for modeling cracks in 3D polycrystalline microstructures**
-- **Reduced order mathematical homogenization method for polycrystalline microstructure with microstructurally small cracks**
-- **Large-deformation reduced order homogenization of polycrystalline materials**
+- PhD, Vanderbilt University
+- Published first-author research in computational mechanics and multiscale modeling
+- Experience with finite element methods, homogenization, uncertainty-aware modeling, and ML-assisted simulation
+- Interested in practical AI systems that compress research effort and increase engineering leverage
 
 ## Tech I Reach For
 
@@ -88,9 +69,6 @@ I enjoy         Ambiguous problems, clean systems, fast prototypes, clear writin
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Abaqus-005386?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Recsys-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Multi--Task%20Learning-7C3AED?style=flat-square" />
 </p>
 
 ## GitHub Snapshot
@@ -105,7 +83,7 @@ I enjoy         Ambiguous problems, clean systems, fast prototypes, clear writin
 
 ## Connect
 
-I'm always interested in thoughtful conversations around LLMs, recommendation systems, agentic AI, scientific computing, simulation, and turning research ideas into working software.
+I'm always interested in thoughtful conversations around AI agents, scientific computing, simulation, and turning research ideas into working software.
 
 <div align="center">
 
